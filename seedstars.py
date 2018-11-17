@@ -9,7 +9,7 @@ from sklearn.metrics import roc_curve
 import matplotlib.pyplot as plt
 
 
-dados  = pd.read_csv('/Users/Robson/Downloads/Data Science Case Study - Data.csv', thousands='.', decimal=',')
+dados  = pd.read_csv('Data Science Case Study - Data.csv', thousands='.', decimal=',')
 dados = dados[['label', 'Education_Status', 'Gender', 'Age', 'No_Children', 'referrals', 'Amount', 'Reason']]
 
 #Cleaning Amount
