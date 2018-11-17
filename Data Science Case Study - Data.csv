@@ -1,0 +1,892 @@
+User_ID,label,Education_Status,Name,Gender,Age,No_Children,referrals,loan_ident,Amount,Campaign,Reason
+1,0,3,Jarrett Henshaw,male,22,1,0,A/5 21171,7.25,,S
+2,1,1,Karole Featherstone,female,38,1,0,PC 17599,71.283,C85,C
+3,1,3,Leena Guenther,female,26,0,0,STON/O2. 3101282,7.925,,S
+4,1,1,Loreta Kiker,female,35,1,0,113803,53.1,C123,S
+5,0,3,Erwin Nack,male,35,0,0,373450,8.05,,S
+6,0,3,Jame Sykora,male,,0,0,330877,8.458,,Q
+7,0,1,Lonny Criswell,male,54,0,0,17463,51.863,E46,S
+8,0,3,Monty Kaylor,male,2,3,1,349909,21.075,,S
+9,1,3,Rochel Monte,female,27,0,2,347742,11.133,,S
+10,1,2,Edra Mcmorrow,female,14,1,0,237736,30.071,,C
+11,1,3,Nelida Snider,female,4,1,1,PP 9549,16.7,G6,S
+12,1,1,Milly Amann,female,58,0,0,113783,26.55,C103,S
+13,0,3,Myles Shives,male,20,0,0,A/5. 2151,8.05,,S
+14,0,3,Justin Andersen,male,39,1,5,347082,31.275,,S
+15,0,3,Cecilia Huggett,female,14,0,0,350406,7.854,,S
+16,1,2,Elise Lobel,female,55,0,0,248706,16,,S
+17,0,3,Donte Lujan,male,2,4,1,382652,29.125,,Q
+18,1,2,Santos Daubert,male,,0,0,244373,13,,S
+19,0,3,Vella Dark,female,31,1,0,345763,18,,S
+20,1,3,Cristi Todaro,female,,0,0,2649,7.225,,C
+21,0,2,Garland Coons,male,35,0,0,239865,26,,S
+22,1,2,Shayne Penaflor,male,34,0,0,248698,13,D56,S
+23,1,3,Alissa Oxford,female,15,0,0,330923,8.029,,Q
+24,1,1,Alva Hooker,male,28,0,0,113788,35.5,A6,S
+25,0,3,Kimbra Barga,female,8,3,1,349909,21.075,,S
+26,1,3,Lesli Stratton,female,38,1,5,347077,31.388,,S
+27,0,3,Alonso Bramer,male,,0,0,2631,7.225,,C
+28,0,1,Jody Millwood,male,19,3,2,19950,263,C23 C25 C27,S
+29,1,3,Joie Villanueva,female,,0,0,330959,7.879,,Q
+30,0,3,Paul Almond,male,,0,0,349216,7.896,,S
+31,0,1,Josef Leeper,male,40,0,0,PC 17601,27.721,,C
+32,1,1,Marcelene Crumb,female,,1,0,PC 17569,146.521,B78,C
+33,1,3,Annamarie Mcgary,female,,0,0,335677,7.75,,Q
+34,0,2,Delbert Michna,male,66,0,0,C.A. 24579,10.5,,S
+35,0,1,Palmer Vanwagner,male,28,1,0,PC 17604,82.171,,C
+36,0,1,Luigi Ritz,male,42,1,0,113789,52,,S
+37,1,3,Donny Mcdaniels,male,,0,0,2677,7.229,,C
+38,0,3,Stanford Atencio,male,21,0,0,A./5. 2152,8.05,,S
+39,0,3,Dinah Clauson,female,18,2,0,345764,18,,S
+40,1,3,Clementina Galbreath,female,14,1,0,2651,11.242,,C
+41,0,3,Kelle Luff,female,40,1,0,7546,9.475,,S
+42,0,2,Kathyrn Sparacino,female,27,1,0,11668,21,,S
+43,0,3,Felton Raulerson,male,,0,0,349253,7.896,,C
+44,1,2,Lekisha Gines,female,3,1,2,SC/Paris 2123,41.579,,C
+45,1,3,Lavera Borey,female,19,0,0,330958,7.879,,Q
+46,0,3,Rolando Caggiano,male,,0,0,S.C./A.4. 23567,8.05,,S
+47,0,3,Russell Nodal,male,,1,0,370371,15.5,,Q
+48,1,3,Jazmine Laramore,female,,0,0,14311,7.75,,Q
+49,0,3,Clifton Tabon,male,,2,0,2662,21.679,,C
+50,0,3,Junita Bridgman,female,18,1,0,349237,17.8,,S
+51,0,3,Rocco Dematteo,male,7,4,1,3101295,39.688,,S
+52,0,3,Melvin Egan,male,21,0,0,A/4. 39886,7.8,,S
+53,1,1,Adelle Caggiano,female,49,1,0,PC 17572,76.729,D33,C
+54,1,2,Emerald Escoto,female,29,1,0,2926,26,,S
+55,0,1,Jamal Cousin,male,65,0,1,113509,61.979,B30,C
+56,1,1,Raymon Esker,male,,0,0,19947,35.5,C52,S
+57,1,2,Leigha Ehle,female,21,0,0,C.A. 31026,10.5,,S
+58,0,3,Maria Oster,male,28.5,0,0,2697,7.229,,C
+59,1,2,Lexie Conyer,female,5,1,2,C.A. 34651,27.75,,S
+60,0,3,Weldon Fett,male,11,5,2,CA 2144,46.9,,S
+61,0,3,Marvin Nevers,male,22,0,0,2669,7.229,,C
+62,1,1,Yaeko Brouillette,female,38,0,0,113572,80,B28,
+63,0,1,Daren Sabine,male,45,1,0,36973,83.475,C83,S
+64,0,3,Tobias Malick,male,4,3,2,347088,27.9,,S
+65,0,1,Orville Bilyeu,male,,0,0,PC 17605,27.721,,C
+66,1,3,Marcellus Lambert,male,,1,1,2661,15.246,,C
+67,1,2,Antonette Lauderback,female,29,0,0,C.A. 29395,10.5,F33,S
+68,0,3,Brooks Rehberg,male,19,0,0,S.P. 3464,8.158,,S
+69,1,3,Bettyann Castelli,female,17,4,2,3101281,7.925,,S
+70,0,3,Miles Hausner,male,26,2,0,315151,8.663,,S
+71,0,2,Reed Berberich,male,32,0,0,C.A. 33111,10.5,,S
+72,0,3,Darline Brumit,female,16,5,2,CA 2144,46.9,,S
+73,0,2,Brain Berge,male,21,0,0,S.O.C. 14879,73.5,,S
+74,0,3,Numbers Keil,male,26,1,0,2680,14.454,,C
+75,1,3,Major Feehan,male,32,0,0,1601,56.496,,S
+76,0,3,Hershel Gossard,male,25,0,0,348123,7.65,F G73,S
+77,0,3,Kent Laiche,male,,0,0,349208,7.896,,S
+78,0,3,Joesph Voorhies,male,,0,0,374746,8.05,,S
+79,1,2,Darrin Hemond,male,0.83,0,2,248738,29,,S
+80,1,3,Leesa Reasor,female,30,0,0,364516,12.475,,S
+81,0,3,Dewayne Fillmore,male,22,0,0,345767,9,,S
+82,1,3,Lesley Lastra,male,29,0,0,345779,9.5,,S
+83,1,3,Nicol Freer,female,,0,0,330932,7.788,,Q
+84,0,1,Michale Woodell,male,28,0,0,113059,47.1,,S
+85,1,2,Lilliam Rayburn,female,17,0,0,SO/C 14885,10.5,,S
+86,1,3,Shanelle Birdsell,female,33,3,0,3101278,15.85,,S
+87,0,3,Len Sutcliffe,male,16,1,3,W./C. 6608,34.375,,S
+88,0,3,Chauncey Glorioso,male,,0,0,SOTON/OQ 392086,8.05,,S
+89,1,1,Rhea Brittian,female,23,3,2,19950,263,C23 C25 C27,S
+90,0,3,Kelley Bellamy,male,24,0,0,343275,8.05,,S
+91,0,3,Royal Balls,male,29,0,0,343276,8.05,,S
+92,0,3,Joan Abramson,male,20,0,0,347466,7.854,,S
+93,0,1,Timmy Federico,male,46,1,0,W.E.P. 5734,61.175,E31,S
+94,0,3,Matthew Hillhouse,male,26,1,2,C.A. 2315,20.575,,S
+95,0,3,Doyle Troncoso,male,59,0,0,364500,7.25,,S
+96,0,3,Hilton Almendarez,male,,0,0,374910,8.05,,S
+97,0,1,Mel Pinckard,male,71,0,0,PC 17754,34.654,A5,C
+98,1,1,Anton Doxey,male,23,0,1,PC 17759,63.358,D10 D12,C
+99,1,2,Patsy Wark,female,34,0,1,231919,23,,S
+100,0,2,Joaquin Kincannon,male,34,1,0,244367,26,,S
+101,0,3,Allyn Fujimoto,female,28,0,0,349245,7.896,,S
+102,0,3,Giovanni Shultz,male,,0,0,349215,7.896,,S
+103,0,1,Buster Lucien,male,21,0,1,35281,77.288,D26,S
+104,0,3,Keneth Morace,male,33,0,0,7540,8.654,,S
+105,0,3,Adolph Mayes,male,37,2,0,3101276,7.925,,S
+106,0,3,Stephan Allmon,male,28,0,0,349207,7.896,,S
+107,1,3,Ruby Karney,female,21,0,0,343120,7.65,,S
+108,1,3,Carlos Abreu,male,,0,0,312991,7.775,,S
+109,0,3,Augustine Liston,male,38,0,0,349249,7.896,,S
+110,1,3,Janetta Hammock,female,,1,0,371110,24.15,,Q
+111,0,1,Hans Louviere,male,47,0,0,110465,52,C110,S
+112,0,3,Lia Schon,female,14.5,1,0,2665,14.454,,C
+113,0,3,Sterling Alatorre,male,22,0,0,324669,8.05,,S
+114,0,3,Stacie Vann,female,20,1,0,4136,9.825,,S
+115,0,3,Machelle Bornstein,female,17,0,0,2627,14.458,,C
+116,0,3,Dominic Weidman,male,21,0,0,STON/O 2. 3101294,7.925,,S
+117,0,3,Henry Easterday,male,70.5,0,0,370369,7.75,,Q
+118,0,2,Nathanial Mccargo,male,29,1,0,11668,21,,S
+119,0,1,Hipolito Koser,male,24,0,1,PC 17558,247.521,B58 B60,C
+120,0,3,Elfreda Cathey,female,2,4,2,347082,31.275,,S
+121,0,2,Olin Edds,male,21,2,0,S.O.C. 14879,73.5,,S
+122,0,3,Cruz Gersten,male,,0,0,A4. 54510,8.05,,S
+123,0,2,Emile Judkins,male,32.5,1,0,237736,30.071,,C
+124,1,2,Tammy Familia,female,32.5,0,0,27267,13,E101,S
+125,0,1,Victor Solem,male,54,0,1,35281,77.288,D26,S
+126,1,3,Oswaldo Worman,male,12,1,0,2651,11.242,,C
+127,0,3,Abdul Wise,male,,0,0,370372,7.75,,Q
+128,1,3,Randal Langhorne,male,24,0,0,C 17369,7.142,,S
+129,1,3,Janey Caughey,female,,1,1,2668,22.358,F E69,C
+130,0,3,Raymon Inouye,male,45,0,0,347061,6.975,,S
+131,0,3,Elbert Sterner,male,33,0,0,349241,7.896,,C
+132,0,3,Freeman Snipes,male,20,0,0,SOTON/O.Q. 3101307,7.05,,S
+133,0,3,Elene Rossignol,female,47,1,0,A/5. 3337,14.5,,S
+134,1,2,Jayme Wagstaff,female,29,1,0,228414,26,,S
+135,0,2,Anthony Leadbetter,male,25,0,0,C.A. 29178,13,,S
+136,0,2,Delbert Burger,male,23,0,0,SC/PARIS 2133,15.046,,C
+137,1,1,Catina Skowron,female,19,0,2,11752,26.283,D47,S
+138,0,1,Darin Leos,male,37,1,0,113803,53.1,C123,S
+139,0,3,Parker Haralson,male,16,0,0,7534,9.217,,S
+140,0,1,Rico Cogdill,male,24,0,0,PC 17593,79.2,B86,C
+141,0,3,Bruna Zanchez,female,,0,2,2678,15.246,,C
+142,1,3,Ching Leyva,female,22,0,0,347081,7.75,,S
+143,1,3,Angelika Allred,female,24,1,0,STON/O2. 3101279,15.85,,S
+144,0,3,Chester Woolfolk,male,19,0,0,365222,6.75,,Q
+145,0,2,Cedrick Tally,male,18,0,0,231945,11.5,,S
+146,0,2,Bernardo Demery,male,19,1,1,C.A. 33112,36.75,,S
+147,1,3,Junior Tippins,male,27,0,0,350043,7.796,,S
+148,0,3,Twanda Monterroso,female,9,2,2,W./C. 6608,34.375,,S
+149,0,2,Erich Gwaltney,male,36.5,0,2,230080,26,F2,S
+150,0,2,Felix Perrone,male,42,0,0,244310,13,,S
+151,0,2,Gustavo Hanner,male,51,0,0,S.O.P. 1166,12.525,,S
+152,1,1,Cira Bogert,female,22,1,0,113776,66.6,C2,S
+153,0,3,Jeffery Fraise,male,55.5,0,0,A.5. 11206,8.05,,S
+154,0,3,Tommie Frances,male,40.5,0,2,A/5. 851,14.5,,S
+155,0,3,Armand Clouse,male,,0,0,Fa 265302,7.313,,S
+156,0,1,Jamie Junge,male,51,0,1,PC 17597,61.379,,C
+157,1,3,Elinore Stoltzfus,female,16,0,0,35851,7.733,,Q
+158,0,3,Jude Filippelli,male,30,0,0,SOTON/OQ 392090,8.05,,S
+159,0,3,Al Mashburn,male,,0,0,315037,8.663,,S
+160,0,3,Rex Burner,male,,8,2,CA. 2343,69.55,,S
+161,0,3,Cody Hooks,male,44,0,1,371362,16.1,,S
+162,1,2,Sandie Hardison,female,40,0,0,C.A. 33595,15.75,,S
+163,0,3,Manual Plouffe,male,26,0,0,347068,7.775,,S
+164,0,3,Darryl Bottomley,male,17,0,0,315093,8.663,,S
+165,0,3,Rodolfo Bleau,male,1,4,1,3101295,39.688,,S
+166,1,3,Horacio Gaccione,male,9,0,2,363291,20.525,,S
+167,1,1,Junita Bloxham,female,,0,1,113505,55,E33,S
+168,0,3,Machelle Edmundson,female,45,1,4,347088,27.9,,S
+169,0,1,Son Wehling,male,,0,0,PC 17318,25.925,,S
+170,0,3,Joey Weekly,male,28,0,0,1601,56.496,,S
+171,0,1,Ed Trowbridge,male,61,0,0,111240,33.5,B19,S
+172,0,3,Trent Lust,male,4,4,1,382652,29.125,,Q
+173,1,3,Darlene Weekes,female,1,1,1,347742,11.133,,S
+174,0,3,Max Bourn,male,21,0,0,STON/O 2. 3101280,7.925,,S
+175,0,1,Everett Glassman,male,56,0,0,17764,30.696,A7,C
+176,0,3,Alvin Weinberg,male,18,1,1,350404,7.854,,S
+177,0,3,Moises Moreman,male,,3,1,4133,25.467,,S
+178,0,1,Tiffany Seidel,female,50,0,0,PC 17595,28.713,C49,C
+179,0,2,Chauncey Akin,male,30,0,0,250653,13,,S
+180,0,3,Darrick Drennan,male,36,0,0,LINE,-,,S
+181,0,3,Venus Ditzler,female,,8,2,CA. 2343,69.55,,S
+182,0,2,Ben Maggard,male,,0,0,SC/PARIS 2131,15.05,,C
+183,0,3,Quinton Atterbury,male,9,4,2,347077,31.388,,S
+184,1,2,Zachariah Hillen,male,1,2,1,230136,39,F4,S
+185,1,3,Willene Bice,female,4,0,2,315153,22.025,,S
+186,0,1,Lucas Clapp,male,,0,0,113767,50,A32,S
+187,1,3,Amanda Freiberg,female,,1,0,370365,15.5,,Q
+188,1,1,Miguel Mulholland,male,45,0,0,111428,26.55,,S
+189,0,3,Kristofer Mccardle,male,40,1,1,364849,15.5,,Q
+190,0,3,Cory Crisler,male,36,0,0,349247,7.896,,S
+191,1,2,Elsy Selden,female,32,0,0,234604,13,,S
+192,0,2,Buddy Fallon,male,19,0,0,28424,13,,S
+193,1,3,Cherilyn Thatcher,female,19,1,0,350046,7.854,,S
+194,1,2,Guillermo Rimer,male,3,1,1,230080,26,F2,S
+195,1,1,Marianna Grissom,female,44,0,0,PC 17610,27.721,B4,C
+196,1,1,Jen Aultman,female,58,0,0,PC 17569,146.521,B80,C
+197,0,3,Sonny Simington,male,,0,0,368703,7.75,,Q
+198,0,3,Lowell Grosso,male,42,0,1,4579,8.404,,S
+199,1,3,Herlinda Kopczynski,female,,0,0,370370,7.75,,Q
+200,0,2,Genia Litton,female,24,0,0,248747,13,,S
+201,0,3,Bradley Spooner,male,28,0,0,345770,9.5,,S
+202,0,3,Daniel Merideth,male,,8,2,CA. 2343,69.55,,S
+203,0,3,Jewel Riegel,male,34,0,0,3101264,6.496,,S
+204,0,3,Mckinley Pennington,male,45.5,0,0,2628,7.225,,C
+205,1,3,Normand Carrier,male,18,0,0,A/5 3540,8.05,,S
+206,0,3,Bernadette Kindell,female,2,0,1,347054,10.463,G6,S
+207,0,3,Clayton Huffines,male,32,1,0,3101278,15.85,,S
+208,1,3,Leopoldo Eshleman,male,26,0,0,2699,18.788,,C
+209,1,3,Keiko Oelke,female,16,0,0,367231,7.75,,Q
+210,1,1,Alton Ehlers,male,40,0,0,112277,31,A31,C
+211,0,3,Rusty Wigley,male,24,0,0,SOTON/O.Q. 3101311,7.05,,S
+212,1,2,Many Lent,female,35,0,0,F.C.C. 13528,21,,S
+213,0,3,Nigel Cargo,male,22,0,0,A/5 21174,7.25,,S
+214,0,2,Alfonzo Bryce,male,30,0,0,250646,13,,S
+215,0,3,Santo Roosa,male,,1,0,367229,7.75,,Q
+216,1,1,Tommye Skerrett,female,31,1,0,35273,113.275,D36,C
+217,1,3,Merilyn Joshi,female,27,0,0,STON/O2. 3101283,7.925,,S
+218,0,2,Noe Serio,male,42,1,0,243847,27,,S
+219,1,1,Rae Condra,female,32,0,0,11813,76.292,D15,C
+220,0,2,Pete Manhart,male,30,0,0,W/C 14208,10.5,,S
+221,1,3,Johnny Cole,male,16,0,0,SOTON/OQ 392089,8.05,,S
+222,0,2,Garry Serrata,male,27,0,0,220367,13,,S
+223,0,3,Demetrius Daly,male,51,0,0,21440,8.05,,S
+224,0,3,Jeff Lynd,male,,0,0,349234,7.896,,S
+225,1,1,Mohammed Luckey,male,38,1,0,19943,90,C93,S
+226,0,3,Abe Weiss,male,22,0,0,PP 4348,9.35,,S
+227,1,2,Keith Jefferys,male,19,0,0,SW/PP 751,10.5,,S
+228,0,3,Lewis Fricks,male,20.5,0,0,A/5 21173,7.25,,S
+229,0,2,Ulysses Dapolito,male,18,0,0,236171,13,,S
+230,0,3,Chelsea Lanigan,female,,3,1,4133,25.467,,S
+231,1,1,Aurea Buhl,female,35,1,0,36973,83.475,C83,S
+232,0,3,Lynwood Sayler,male,29,0,0,347067,7.775,,S
+233,0,2,Ernesto Beaudette,male,59,0,0,237442,13.5,,S
+234,1,3,Willodean Hogge,female,5,4,2,347077,31.388,,S
+235,0,2,Dannie Malik,male,24,0,0,C.A. 29566,10.5,,S
+236,0,3,Jerrica Colella,female,,0,0,W./C. 6609,7.55,,S
+237,0,2,Jarvis Cothron,male,44,1,0,26707,26,,S
+238,1,2,Bridgette Gimbel,female,8,0,2,C.A. 31921,26.25,,S
+239,0,2,Herb Pasko,male,19,0,0,28665,10.5,,S
+240,0,2,Carroll Schieber,male,33,0,0,SCO/W 1585,12.275,,S
+241,0,3,Elin Scheck,female,,1,0,2665,14.454,,C
+242,1,3,Melody Outten,female,,1,0,367230,15.5,,Q
+243,0,2,Charles Brackman,male,29,0,0,W./C. 14263,10.5,,S
+244,0,3,Malcom Righter,male,22,0,0,STON/O 2. 3101275,7.125,,S
+245,0,3,Stefan Bee,male,30,0,0,2694,7.225,,C
+246,0,1,Levi Colby,male,44,2,0,19928,90,C78,Q
+247,0,3,Rhona Keithley,female,25,0,0,347071,7.775,,S
+248,1,2,Serina Bish,female,24,0,2,250649,14.5,,S
+249,1,1,Ian Morency,male,37,1,1,11751,52.554,D35,S
+250,0,2,Rich Tookes,male,54,1,0,244252,26,,S
+251,0,3,Ivan Pakele,male,,0,0,362316,7.25,,S
+252,0,3,Alanna Wenzel,female,29,1,1,347054,10.463,G6,S
+253,0,1,Sydney Carrow,male,62,0,0,113514,26.55,C87,S
+254,0,3,Curt Belanger,male,30,1,0,A/5. 3336,16.1,,S
+255,0,3,Angeline Dill,female,41,0,2,370129,20.213,,S
+256,1,3,Gabrielle Yohn,female,29,0,2,2650,15.246,,C
+257,1,1,Eliza Sowell,female,,0,0,PC 17585,79.2,,C
+258,1,1,Marianela Rettig,female,30,0,0,110152,86.5,B77,S
+259,1,1,Delta Kelemen,female,35,0,0,PC 17755,512.329,,C
+260,1,2,Anisha Kaspar,female,50,0,1,230433,26,,S
+261,0,3,Stan Pane,male,,0,0,384461,7.75,,Q
+262,1,3,Danial Cuccia,male,3,4,2,347077,31.388,,S
+263,0,1,Palmer Sandman,male,52,1,1,110413,79.65,E67,S
+264,0,1,Adalberto Overholt,male,40,0,0,112059,-,B94,S
+265,0,3,Gala Delorey,female,,0,0,382649,7.75,,Q
+266,0,2,Robin Luse,male,36,0,0,C.A. 17248,10.5,,S
+267,0,3,Napoleon Loomis,male,16,4,1,3101295,39.688,,S
+268,1,3,Josh Haislip,male,25,1,0,347083,7.775,,S
+269,1,1,Elinor Gilbertson,female,58,0,1,PC 17582,153.463,C125,S
+270,1,1,Janelle Amundsen,female,35,0,0,PC 17760,135.633,C99,S
+271,0,1,Lenard Stanislawski,male,,0,0,113798,31,,S
+272,1,3,Tory Kampa,male,25,0,0,LINE,-,,S
+273,1,2,Doreatha Cotto,female,41,0,1,250644,19.5,,S
+274,0,1,Rolland Coltharp,male,37,0,1,PC 17596,29.7,C118,C
+275,1,3,Roxanna Hille,female,,0,0,370375,7.75,,Q
+276,1,1,Tesha Alvin,female,63,1,0,13502,77.958,D7,S
+277,0,3,Clorinda Martindale,female,45,0,0,347073,7.75,,S
+278,0,2,Lucien Phou,male,,0,0,239853,-,,S
+279,0,3,Dorsey Goodell,male,7,4,1,382652,29.125,,Q
+280,1,3,Livia Levinson,female,35,1,1,C.A. 2673,20.25,,S
+281,0,3,Bennie Big,male,65,0,0,336439,7.75,,Q
+282,0,3,Samual Strand,male,28,0,0,347464,7.854,,S
+283,0,3,Abram Conlin,male,16,0,0,345778,9.5,,S
+284,1,3,Eusebio Witman,male,19,0,0,A/5. 10482,8.05,,S
+285,0,1,Jarrod Vanguilder,male,,0,0,113056,26,A19,S
+286,0,3,Ivory Crinklaw,male,33,0,0,349239,8.663,,C
+287,1,3,Elden Hungerford,male,30,0,0,345774,9.5,,S
+288,0,3,Jim Farrelly,male,22,0,0,349206,7.896,,S
+289,1,2,Williams Kinkade,male,42,0,0,237798,13,,S
+290,1,3,Chelsie Callas,female,22,0,0,370373,7.75,,Q
+291,1,1,Annabell Acosta,female,26,0,0,19877,78.85,,S
+292,1,1,Sylvie Simmers,female,19,1,0,11967,91.079,B49,C
+293,0,2,Cordell Houpt,male,36,0,0,SC/Paris 2163,12.875,D,C
+294,0,3,Bridget Bittle,female,24,0,0,349236,8.85,,S
+295,0,3,Lyman Summy,male,24,0,0,349233,7.896,,S
+296,0,1,Emory Warburton,male,,0,0,PC 17612,27.721,,C
+297,0,3,Kyle Laporte,male,23.5,0,0,2693,7.229,,C
+298,0,1,Izola Insley,female,2,1,2,113781,151.55,C22 C26,S
+299,1,1,Elmo Poppe,male,,0,0,19988,30.5,C106,S
+300,1,1,Rena Rakowski,female,50,0,1,PC 17558,247.521,B58 B60,C
+301,1,3,Rashida Rohe,female,,0,0,9234,7.75,,Q
+302,1,3,Ashley Lowrie,male,,2,0,367226,23.25,,Q
+303,0,3,Jacinto Loflin,male,19,0,0,LINE,-,,S
+304,1,2,Marci Manthe,female,,0,0,226593,12.35,E101,Q
+305,0,3,Kermit Carolina,male,,0,0,A/5 2466,8.05,,S
+306,1,1,Emanuel Jordon,male,0.92,1,2,113781,151.55,C22 C26,S
+307,1,1,Tawanna Testerman,female,,0,0,17421,110.883,,C
+308,1,1,Jerlene Jacobi,female,17,1,0,PC 17758,108.9,C65,C
+309,0,2,Darrick Reighard,male,30,1,0,P/PP 3381,24,,C
+310,1,1,Jacquelyne Jarnagin,female,30,0,0,PC 17485,56.929,E36,C
+311,1,1,Lynna Lossett,female,24,0,0,11767,83.158,C54,C
+312,1,1,Michelle Maravilla,female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+313,0,2,Ivy Iannuzzi,female,26,1,1,250651,26,,S
+314,0,3,Jame Silva,male,28,0,0,349243,7.896,,S
+315,0,2,Isidro Longmore,male,43,1,1,F.C.C. 13529,26.25,,S
+316,1,3,Jenniffer Jessup,female,26,0,0,347470,7.854,,S
+317,1,2,Alayna Abril,female,24,1,0,244367,26,,S
+318,0,2,Lino Pitchford,male,54,0,0,29011,14,,S
+319,1,1,Natalya Nam,female,31,0,2,36928,164.867,C7,S
+320,1,1,Kristel Kalb,female,40,1,1,16966,134.5,E34,C
+321,0,3,Jimmy Balmer,male,22,0,0,A/5 21172,7.25,,S
+322,0,3,Colin Millan,male,27,0,0,349219,7.896,,S
+323,1,2,Jacquelyn Juneau,female,30,0,0,234818,12.35,,Q
+324,1,2,Lettie Lant,female,22,1,1,248738,29,,S
+325,0,3,Wilbert Berge,male,,8,2,CA. 2343,69.55,,S
+326,1,1,Kelsey Kehoe,female,36,0,0,PC 17760,135.633,C32,C
+327,0,3,Jamar Wilken,male,61,0,0,345364,6.238,,S
+328,1,2,Dorthy Debord,female,36,0,0,28551,13,D,S
+329,1,3,Audry Adame,female,31,1,1,363291,20.525,,S
+330,1,1,Earlene Eisenbarth,female,16,0,1,111361,57.979,B18,C
+331,1,3,Hortencia Hymes,female,,2,0,367226,23.25,,Q
+332,0,1,Jamaal Heater,male,45.5,0,0,113043,28.5,C124,S
+333,0,1,Zane Nobles,male,38,0,1,PC 17582,153.463,C91,S
+334,0,3,Jamey Locher,male,16,2,0,345764,18,,S
+335,1,1,Season Schimpf,female,,1,0,PC 17611,133.65,,S
+336,0,3,Cole Flannigan,male,,0,0,349225,7.896,,S
+337,0,1,Toney Mcewen,male,29,1,0,113776,66.6,C2,S
+338,1,1,Hwa Heims,female,41,0,0,16966,134.5,E40,C
+339,1,3,Major Puls,male,45,0,0,7598,8.05,,S
+340,0,1,Basil Korman,male,45,0,0,113784,35.5,T,S
+341,1,2,Moises Wiseley,male,2,1,1,230080,26,F2,S
+342,1,1,Sun Soukup,female,24,3,2,19950,263,C23 C25 C27,S
+343,0,2,Jefferson Hargis,male,28,0,0,248740,13,,S
+344,0,2,Joan Chason,male,25,0,0,244361,13,,S
+345,0,2,Tyrell Chennault,male,36,0,0,229236,13,,S
+346,1,2,Bernardina Bowersox,female,24,0,0,248733,13,F33,S
+347,1,2,Milagro Mcguire,female,40,0,0,31418,13,,S
+348,1,3,Cathryn Corbett,female,,1,0,386525,16.1,,S
+349,1,3,Ricardo Bloomer,male,3,1,1,C.A. 37671,15.9,,S
+350,0,3,Christopher Hallmark,male,42,0,0,315088,8.663,,S
+351,0,3,Buford Izzard,male,23,0,0,7267,9.225,,S
+352,0,1,Lawerence Pearman,male,,0,0,113510,35,C128,S
+353,0,3,Melvin Tullos,male,15,1,1,2695,7.229,,C
+354,0,3,Jerrold Naab,male,25,1,0,349237,17.8,,S
+355,0,3,Julio Dellinger,male,,0,0,2647,7.225,,C
+356,0,3,Milo Johnston,male,28,0,0,345783,9.5,,S
+357,1,1,Loreta Lax,female,22,0,1,113505,55,E33,S
+358,0,2,Shandi Slifer,female,38,0,0,237671,13,,S
+359,1,3,Signe Stalter,female,,0,0,330931,7.879,,Q
+360,1,3,Willette Whipple,female,,0,0,330980,7.879,,Q
+361,0,3,Ward Westfield,male,40,1,4,347088,27.9,,S
+362,0,2,Carmen Ballengee,male,29,1,0,SC/PARIS 2167,27.721,,C
+363,0,3,Grayce Giambrone,female,45,0,1,2691,14.454,,C
+364,0,3,Ned Gunnell,male,35,0,0,SOTON/O.Q. 3101310,7.05,,S
+365,0,3,Winston Grimsley,male,,1,0,370365,15.5,,Q
+366,0,3,Raul Rowley,male,30,0,0,C 7076,7.25,,S
+367,1,1,Whitley Waguespack,female,60,1,0,110813,75.25,D37,C
+368,1,3,Donnetta Danks,female,,0,0,2626,7.229,,C
+369,1,3,Geneva Goldsmith,female,,0,0,14313,7.75,,Q
+370,1,1,Elly Edmundson,female,24,0,0,PC 17477,69.3,B35,C
+371,1,1,Burt Brackman,male,25,1,0,11765,55.442,E50,C
+372,0,3,Bret Plaster,male,18,1,0,3101267,6.496,,S
+373,0,3,Jackson Odriscoll,male,19,0,0,323951,8.05,,S
+374,0,1,Forest Matheny,male,22,0,0,PC 17760,135.633,,C
+375,0,3,Carleen Cimino,female,3,3,1,349909,21.075,,S
+376,1,1,Fairy Fried,female,,1,0,PC 17604,82.171,,C
+377,1,3,Trula Turco,female,22,0,0,C 7077,7.25,,S
+378,0,1,Lupe Hartness,male,27,0,2,113503,211.5,C82,C
+379,0,3,Jeff Mckibben,male,20,0,0,2648,4.013,,C
+380,0,3,Lucio Wetzel,male,19,0,0,347069,7.775,,S
+381,1,1,Tobi Toki,female,42,0,0,PC 17757,227.525,,C
+382,1,3,Jackelyn Jump,female,1,0,2,2653,15.742,,C
+383,0,3,Bradly Boman,male,32,0,0,STON/O 2. 3101293,7.925,,S
+384,1,1,Tawny Trumbull,female,35,1,0,113789,52,,S
+385,0,3,Otis Shiley,male,,0,0,349227,7.896,,S
+386,0,2,Graig Quinonez,male,18,0,0,S.O.C. 14879,73.5,,S
+387,0,3,Alejandro Gingrich,male,1,5,2,CA 2144,46.9,,S
+388,1,2,Millicent Martz,female,36,0,0,27849,13,,S
+389,0,3,Scot Coward,male,,0,0,367655,7.729,,Q
+390,1,2,Selene Schueller,female,17,0,0,SC 1748,12,,C
+391,1,1,Myron Belew,male,36,1,2,113760,120,B96 B98,S
+392,1,3,Felix Kolesar,male,21,0,0,350034,7.796,,S
+393,0,3,Edmundo Lozoya,male,28,2,0,3101277,7.925,,S
+394,1,1,Zofia Zinck,female,23,1,0,35273,113.275,D36,C
+395,1,3,Candi Sharpton,female,24,0,2,PP 9549,16.7,G6,S
+396,0,3,Eli Showman,male,22,0,0,350052,7.796,,S
+397,0,3,Tonie Masek,female,31,0,0,350407,7.854,,S
+398,0,2,Mose Borchardt,male,46,0,0,28403,26,,S
+399,0,2,Jon Masi,male,23,0,0,244278,10.5,,S
+400,1,2,Lynnette Talavera,female,28,0,0,240929,12.65,,S
+401,1,3,Graham Vincelette,male,39,0,0,STON/O 2. 3101289,7.925,,S
+402,0,3,Donald Hawkinson,male,26,0,0,341826,8.05,,S
+403,0,3,Hanna Hodapp,female,21,1,0,4137,9.825,,S
+404,0,3,Walton Aliff,male,28,1,0,STON/O2. 3101279,15.85,,S
+405,0,3,Debra Taitt,female,20,0,0,315096,8.663,,S
+406,0,2,Grady Cerutti,male,34,1,0,28664,21,,S
+407,0,3,Brenton Walder,male,51,0,0,347064,7.75,,S
+408,1,2,Truman Ide,male,3,1,1,29106,18.75,,S
+409,0,3,Emmanuel Youngberg,male,21,0,0,312992,7.775,,S
+410,0,3,Tonisha Sola,female,,3,1,4133,25.467,,S
+411,0,3,Lamont Ammerman,male,,0,0,349222,7.896,,S
+412,0,3,Wesley Unsworth,male,,0,0,394140,6.858,,Q
+413,1,1,Jodie Glanton,female,33,1,0,19928,90,C78,Q
+414,0,2,Zachary Weir,male,,0,0,239853,-,,S
+415,1,3,Douglass Drolet,male,44,0,0,STON/O 2. 3101269,7.925,,S
+416,0,3,Kira Hartman,female,,0,0,343095,8.05,,S
+417,1,2,Willena Hackman,female,34,1,1,28220,32.5,,S
+418,1,2,Brenda Egger,female,18,0,2,250652,13,,S
+419,0,2,Son Crenshaw,male,30,0,0,28228,13,,S
+420,0,3,Chere Canales,female,10,0,2,345773,24.15,,S
+421,0,3,Boris Spindler,male,,0,0,349254,7.896,,C
+422,0,3,Damon Lollar,male,21,0,0,A/5. 13032,7.733,,Q
+423,0,3,Wyatt Bleau,male,29,0,0,315082,7.875,,S
+424,0,3,Andera Dudgeon,female,28,1,1,347080,14.4,,S
+425,0,3,Columbus Giguere,male,18,1,1,370129,20.213,,S
+426,0,3,Walter Hinson,male,,0,0,A/4. 34244,7.25,,S
+427,1,2,Katy Durand,female,28,1,0,2003,26,,S
+428,1,2,Tama Root,female,19,0,0,250655,26,,S
+429,0,3,Cameron Koogler,male,,0,0,364851,7.75,,Q
+430,1,3,Saul Beesley,male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S
+431,1,1,Fredric Gartland,male,28,0,0,110564,26.55,C52,S
+432,1,3,Bao Funston,female,,1,0,376564,16.1,,S
+433,1,2,Jenni Trosper,female,42,1,0,SC/AH 3085,26,,S
+434,0,3,Julio Berard,male,17,0,0,STON/O 2. 3101274,7.125,,S
+435,0,1,Carter Pitter,male,50,1,0,13507,55.9,E44,S
+436,1,1,Jannette Manfre,female,14,1,2,113760,120,B96 B98,S
+437,0,3,Dusti Houck,female,21,2,2,W./C. 6608,34.375,,S
+438,1,2,Kimi Scoggins,female,24,2,3,29106,18.75,,S
+439,0,1,Gilbert Newbill,male,64,1,4,19950,263,C23 C25 C27,S
+440,0,2,Hilario Rhynes,male,31,0,0,C.A. 18723,10.5,,S
+441,1,2,Kaleigh Wiesen,female,45,1,1,F.C.C. 13529,26.25,,S
+442,0,3,Woodrow Avelar,male,20,0,0,345769,9.5,,S
+443,0,3,Tyron Soller,male,25,1,0,347076,7.775,,S
+444,1,2,Sachiko Kimbrell,female,28,0,0,230434,13,,S
+445,1,3,Ray Raby,male,,0,0,65306,8.113,,S
+446,1,1,Noble Pasillas,male,4,0,2,33638,81.858,A34,S
+447,1,2,Racquel Paradiso,female,13,0,1,250644,19.5,,S
+448,1,1,Johnny Andre,male,34,0,0,113794,26.55,,S
+449,1,3,Dorene Blossom,female,5,2,1,2666,19.258,,C
+450,1,1,Titus Comes,male,52,0,0,113786,30.5,C104,S
+451,0,2,Brendan Mcclurg,male,36,1,2,C.A. 34651,27.75,,S
+452,0,3,Denis Orem,male,,1,0,65303,19.967,,S
+453,0,1,Zack Crandle,male,30,0,0,113051,27.75,C111,C
+454,1,1,Mauricio Kofoed,male,49,1,0,17453,89.104,C92,C
+455,0,3,Silas Whitt,male,,0,0,A/5 2817,8.05,,S
+456,1,3,Newton Lubbers,male,29,0,0,349240,7.896,,C
+457,0,1,Merrill Ku,male,65,0,0,13509,26.55,E38,S
+458,1,1,Margo Dison,female,,1,0,17464,51.863,D21,S
+459,1,2,Daniele Friberg,female,50,0,0,F.C.C. 13531,10.5,,S
+460,0,3,Dustin Nickerson,male,,0,0,371060,7.75,,Q
+461,1,1,Tyson David,male,48,0,0,19952,26.55,E12,S
+462,0,3,Gaylord Sinclair,male,34,0,0,364506,8.05,,S
+463,0,1,Lindsey Humber,male,47,0,0,111320,38.5,E63,S
+464,0,2,Jordon Laurent,male,48,0,0,234360,13,,S
+465,0,3,Jeromy Sheely,male,,0,0,A/S 2816,8.05,,S
+466,0,3,Charles Pruett,male,38,0,0,SOTON/O.Q. 3101306,7.05,,S
+467,0,2,Byron Barns,male,,0,0,239853,-,,S
+468,0,1,Santo Goins,male,56,0,0,113792,26.55,,S
+469,0,3,Donald Maroon,male,,0,0,36209,7.725,,Q
+470,1,3,Berniece Milici,female,0.75,2,1,2666,19.258,,C
+471,0,3,Rigoberto Hadsell,male,,0,0,323592,7.25,,S
+472,0,3,Horace Busick,male,38,0,0,315089,8.663,,S
+473,1,2,Dorthea Bashir,female,33,1,2,C.A. 34651,27.75,,S
+474,1,2,Madaline Winbush,female,23,0,0,SC/AH Basle 541,13.792,D,C
+475,0,3,Natalie Greenberg,female,22,0,0,7553,9.838,,S
+476,0,1,Efrain Kandoll,male,,0,0,110465,52,A14,S
+477,0,2,Lesley Munz,male,34,1,0,31027,21,,S
+478,0,3,Jamey Zielinski,male,29,1,0,3460,7.046,,S
+479,0,3,Olen Carns,male,22,0,0,350060,7.521,,S
+480,1,3,Kortney Whitener,female,2,0,1,3101298,12.288,,S
+481,0,3,Cliff Casados,male,9,5,2,CA 2144,46.9,,S
+482,0,2,Tracy Trybus,male,,0,0,239854,-,,S
+483,0,3,Bryon Breese,male,50,0,0,A/5 3594,8.05,,S
+484,1,3,Leta Kesner,female,63,0,0,4134,9.588,,S
+485,1,1,Frances Flavin,male,25,1,0,11967,91.079,B49,C
+486,0,3,Brigida Woltz,female,,3,1,4133,25.467,,S
+487,1,1,Meridith Liriano,female,35,1,0,19943,90,C93,S
+488,0,1,Gale Graffam,male,58,0,0,11771,29.7,B37,C
+489,0,3,Elmo Everitt,male,30,0,0,A.5. 18509,8.05,,S
+490,1,3,Gaston Gent,male,9,1,1,C.A. 37671,15.9,,S
+491,0,3,Jamar Jarvie,male,,1,0,65304,19.967,,S
+492,0,3,Elmer Ernst,male,21,0,0,SOTON/OQ 3101317,7.25,,S
+493,0,1,Roscoe Regis,male,55,0,0,113787,30.5,C30,S
+494,0,1,Merle Macomber,male,71,0,0,PC 17609,49.504,,C
+495,0,3,Faustino Fecteau,male,21,0,0,A/4 45380,8.05,,S
+496,0,3,Paris Pickering,male,,0,0,2627,14.458,,C
+497,1,1,Kasie Robertson,female,54,1,0,36947,78.267,D20,C
+498,0,3,Manuel Mincey,male,,0,0,C.A. 6212,15.1,,S
+499,0,1,Lynetta Mcgaha,female,25,1,2,113781,151.55,C22 C26,S
+500,0,3,Lucien Leis,male,24,0,0,350035,7.796,,S
+501,0,3,Claude Calabria,male,17,0,0,315086,8.663,,S
+502,0,3,Kylie Gusman,female,21,0,0,364846,7.75,,Q
+503,0,3,Almeta Beresford,female,,0,0,330909,7.629,,Q
+504,0,3,Gracie Bushman,female,37,0,0,4135,9.588,,S
+505,1,1,Minerva Dahmer,female,16,0,0,110152,86.5,B79,S
+506,0,1,Claud Cochrane,male,18,1,0,PC 17758,108.9,C65,C
+507,1,2,Sanora Mauffray,female,33,0,2,26360,26,,S
+508,1,1,Hunter Hunley,male,,0,0,111427,26.55,,S
+509,0,3,Dexter Dearth,male,28,0,0,C 4001,22.525,,S
+510,1,3,Leo Lanterman,male,26,0,0,1601,56.496,,S
+511,1,3,Jaime Joyce,male,29,0,0,382651,7.75,,Q
+512,0,3,Marty Maravilla,male,,0,0,SOTON/OQ 3101316,8.05,,S
+513,1,1,Bradly Boyland,male,36,0,0,PC 17473,26.288,E25,S
+514,1,1,Kit Bivona,female,54,1,0,PC 17603,59.4,,C
+515,0,3,Dong Deng,male,24,0,0,349209,7.496,,S
+516,0,1,Tony Tandy,male,47,0,0,36967,34.021,D46,S
+517,1,2,Ariane Jutras,female,34,0,0,C.A. 34260,10.5,F33,S
+518,0,3,Derick Dewberry,male,,0,0,371110,24.15,,Q
+519,1,2,Hien Alley,female,36,1,0,226875,26,,S
+520,0,3,Jeff Jiminez,male,32,0,0,349242,7.896,,S
+521,1,1,Christinia Seedorf,female,30,0,0,12749,93.5,B73,S
+522,0,3,Vance Vinyard,male,22,0,0,349252,7.896,,S
+523,0,3,Frank Fitton,male,,0,0,2624,7.225,,C
+524,1,1,Lorinda Beller,female,44,0,1,111361,57.979,B18,C
+525,0,3,Sherwood Spillers,male,,0,0,2700,7.229,,C
+526,0,3,Markus Mogan,male,40.5,0,0,367232,7.75,,Q
+527,1,2,Soledad Milazzo,female,50,0,0,W./C. 14258,10.5,,S
+528,0,1,Peter Pyatt,male,,0,0,PC 17483,221.779,C95,S
+529,0,3,Lonny Llamas,male,39,0,0,3101296,7.925,,S
+530,0,2,Dean Derringer,male,23,2,1,29104,11.5,,S
+531,1,2,Carrie Ballance,female,2,1,1,26360,26,,S
+532,0,3,Carmine Culwell,male,,0,0,2641,7.229,,C
+533,0,3,Guy Gwozdz,male,17,1,1,2690,7.229,,C
+534,1,3,Susan Lubinsky,female,,0,2,2668,22.358,,C
+535,0,3,Crissy Traylor,female,30,0,0,315084,8.663,,S
+536,1,2,Karleen Kirton,female,7,0,2,F.C.C. 13529,26.25,,S
+537,0,1,Kelly Kukowski,male,45,0,0,113050,26.55,B38,S
+538,1,1,Karisa Shutt,female,30,0,0,PC 17761,106.425,,C
+539,0,3,Casey Chabolla,male,,0,0,364498,14.5,,S
+540,1,1,Samantha Dedeaux,female,22,0,2,13568,49.5,B39,C
+541,1,1,Criselda Etzel,female,36,0,2,WE/P 5735,71,B22,S
+542,0,3,Sherlyn Larocca,female,9,4,2,347082,31.275,,S
+543,0,3,Julianna Sanders,female,11,4,2,347082,31.275,,S
+544,1,2,Stuart Sylvia,male,32,1,0,2908,26,,S
+545,0,1,Lawerence Lager,male,50,1,0,PC 17761,106.425,C86,C
+546,0,1,Sanford Sedlacek,male,64,0,0,693,26,,S
+547,1,2,Gertrud Fryer,female,19,1,0,2908,26,,S
+548,1,2,Dewitt Doom,male,,0,0,SC/PARIS 2146,13.863,,C
+549,0,3,Nathanael Newingham,male,33,1,1,363291,20.525,,S
+550,1,2,Irwin Inoue,male,8,1,1,C.A. 33112,36.75,,S
+551,1,1,Johnnie Jeans,male,17,0,2,17421,110.883,C70,C
+552,0,2,Kurt Kuchta,male,27,0,0,244358,26,,S
+553,0,3,Lavern Loomis,male,,0,0,330979,7.829,,Q
+554,1,3,Jesse Jeffrey,male,22,0,0,2620,7.225,,C
+555,1,3,Indira Doster,female,22,0,0,347085,7.775,,S
+556,0,1,Elias Eckart,male,62,0,0,113807,26.55,,S
+557,1,1,Dahlia Abels,female,48,1,0,11755,39.6,A16,C
+558,0,1,Miles Morel,male,,0,0,PC 17757,227.525,,C
+559,1,1,Martha Spagnoli,female,39,1,1,110413,79.65,E67,S
+560,1,3,Manie Mchaney,female,36,1,0,345572,17.4,,S
+561,0,3,Waylon Boren,male,,0,0,372622,7.75,,Q
+562,0,3,Hipolito Mabe,male,40,0,0,349251,7.896,,S
+563,0,2,Lesley Hazlett,male,28,0,0,218629,13.5,,S
+564,0,3,Tom Garett,male,,0,0,SOTON/OQ 392082,8.05,,S
+565,0,3,Dayle Puckett,female,,0,0,SOTON/O.Q. 392087,8.05,,S
+566,0,3,Andres Hursh,male,24,2,0,A/4 48871,24.15,,S
+567,0,3,Emile Wieck,male,19,0,0,349205,7.896,,S
+568,0,3,Maxine Rosel,female,29,0,4,349909,21.075,,S
+569,0,3,Cliff Lisa,male,,0,0,2686,7.229,,C
+570,1,3,Sherman Kimbrel,male,32,0,0,350417,7.854,,S
+571,1,2,Rashad Caulkins,male,62,0,0,S.W./PP 752,10.5,,S
+572,1,1,Joya Dorr,female,53,2,0,11769,51.479,C101,S
+573,1,1,Emmanuel Struck,male,36,0,0,PC 17474,26.388,E25,S
+574,1,3,Leatrice Rorick,female,,0,0,14312,7.75,,Q
+575,0,3,Jordan Morey,male,16,0,0,A/4. 20589,8.05,,S
+576,0,3,Cordell Amodeo,male,19,0,0,358585,14.5,,S
+577,1,2,Emmie Pyatt,female,34,0,0,243880,13,,S
+578,1,1,Andra Lupi,female,39,1,0,13507,55.9,E44,S
+579,0,3,Nina Hoover,female,,1,0,2689,14.458,,C
+580,1,3,Giovanni Greenhalgh,male,32,0,0,STON/O 2. 3101286,7.925,,S
+581,1,2,Jana Huffines,female,25,1,1,237789,30,,S
+582,1,1,Ruthanne Meggs,female,39,1,1,17421,110.883,C68,C
+583,0,2,Virgil Topping,male,54,0,0,28403,26,,S
+584,0,1,Dewey Zeringue,male,36,0,0,13049,40.125,A10,C
+585,0,3,Ezequiel Zinke,male,,0,0,3411,8.713,,C
+586,1,1,Kizzy Higby,female,18,0,2,110413,79.65,E68,S
+587,0,2,Karl Bochenek,male,47,0,0,237565,15,,S
+588,1,1,Olin Oakley,male,60,1,1,13567,79.2,B41,C
+589,0,3,Christian Monnin,male,22,0,0,14973,8.05,,S
+590,0,3,Michal Andry,male,,0,0,A./5. 3235,8.05,,S
+591,0,3,Porter Sanor,male,35,0,0,STON/O 2. 3101273,7.125,,S
+592,1,1,Cari Mcnew,female,52,1,0,36947,78.267,D20,C
+593,0,3,Brad Glynn,male,47,0,0,A/5 3902,7.25,,S
+594,0,3,Meggan Passmore,female,,0,2,364848,7.75,,Q
+595,0,2,Dana Boisvert,male,37,1,0,SC/AH 29037,26,,S
+596,0,3,Tyler Montano,male,36,1,1,345773,24.15,,S
+597,1,2,Cathryn Noecker,female,,0,0,248727,33,,S
+598,0,3,Bert Levy,male,49,0,0,LINE,-,,S
+599,0,3,Isaac Horan,male,,0,0,2664,7.225,,C
+600,1,1,Michael Schunk,male,49,1,0,PC 17485,56.929,A20,C
+601,1,2,Dann Corn,female,24,2,1,243847,27,,S
+602,0,3,Abe Sevilla,male,,0,0,349214,7.896,,S
+603,0,1,Lucas Bazile,male,,0,0,113796,42.4,,S
+604,0,3,Roger Rousselle,male,44,0,0,364511,8.05,,S
+605,1,1,Hank Bitting,male,35,0,0,111426,26.55,,C
+606,0,3,Donte Leatham,male,36,1,0,349910,15.55,,S
+607,0,3,Darrel Montufar,male,30,0,0,349246,7.896,,S
+608,1,1,Shaun Pierson,male,27,0,0,113804,30.5,,S
+609,1,2,Cecila Dileo,female,22,1,2,SC/Paris 2123,41.579,,C
+610,1,1,Belkis Wolfenbarger,female,40,0,0,PC 17582,153.463,C125,S
+611,0,3,Malinda Valentino,female,39,1,5,347082,31.275,,S
+612,0,3,Phillip Ek,male,,0,0,SOTON/O.Q. 3101305,7.05,,S
+613,1,3,Daphine Eadie,female,,1,0,367230,15.5,,Q
+614,0,3,Lauren Mao,male,,0,0,370377,7.75,,Q
+615,0,3,Miles Jeanlouis,male,35,0,0,364512,8.05,,S
+616,1,2,Kathleen Jankowski,female,24,1,2,220845,65,,S
+617,0,3,Long Bogdan,male,34,1,1,347080,14.4,,S
+618,0,3,Madeleine Kapinos,female,26,1,0,A/5. 3336,16.1,,S
+619,1,2,France Weisner,female,4,2,1,230136,39,F4,S
+620,0,2,Neville Olivera,male,26,0,0,31028,10.5,,S
+621,0,3,Shon Lockley,male,27,1,0,2659,14.454,,C
+622,1,1,Derick Wash,male,42,1,0,11753,52.554,D19,S
+623,1,3,Vernon Connon,male,20,1,1,2653,15.742,,C
+624,0,3,Bo Carrizales,male,21,0,0,350029,7.854,,S
+625,0,3,Tobias Burdett,male,21,0,0,54636,16.1,,S
+626,0,1,Perry Crandall,male,61,0,0,36963,32.321,D50,S
+627,0,2,Russ Alpert,male,57,0,0,219533,12.35,,Q
+628,1,1,Jeannetta Collingwood,female,21,0,0,13502,77.958,D9,S
+629,0,3,Winston Yarborough,male,26,0,0,349224,7.896,,S
+630,0,3,Henry Youmans,male,,0,0,334912,7.733,,Q
+631,1,1,Elbert Forry,male,80,0,0,27042,30,A23,S
+632,0,3,Elroy Manry,male,51,0,0,347743,7.054,,S
+633,1,1,Willian Doolin,male,32,0,0,13214,30.5,B50,C
+634,0,1,Jc Arispe,male,,0,0,112052,-,,S
+635,0,3,Elois Corzine,female,9,3,2,347088,27.9,,S
+636,1,2,Carylon Hollow,female,28,0,0,237668,13,,S
+637,0,3,Brant Strub,male,32,0,0,STON/O 2. 3101292,7.925,,S
+638,0,2,Claud Arakaki,male,31,1,1,C.A. 31921,26.25,,S
+639,0,3,Savanna Tapia,female,41,0,5,3101295,39.688,,S
+640,0,3,Clayton Rask,male,,1,0,376564,16.1,,S
+641,0,3,Cole Mannion,male,20,0,0,350050,7.854,,S
+642,1,1,Lu Pankratz,female,24,0,0,PC 17477,69.3,B35,C
+643,0,3,Cori Bartram,female,2,3,2,347088,27.9,,S
+644,1,3,Rudy Beckerman,male,,0,0,1601,56.496,,S
+645,1,3,Thora Sharber,female,0.75,2,1,2666,19.258,,C
+646,1,1,Eddy Varnado,male,48,1,0,PC 17572,76.729,D33,C
+647,0,3,Cameron Hermann,male,19,0,0,349231,7.896,,S
+648,1,1,Eldridge Polson,male,56,0,0,13213,35.5,A26,C
+649,0,3,Emmett Gander,male,,0,0,S.O./P.P. 751,7.55,,S
+650,1,3,Jolie Mease,female,23,0,0,CA. 2314,7.55,,S
+651,0,3,Danny Stauber,male,,0,0,349221,7.896,,S
+652,1,2,Providencia Riehle,female,18,0,1,231919,23,,S
+653,0,3,Hayden Finck,male,21,0,0,8475,8.433,,S
+654,1,3,Patrina Eastep,female,,0,0,330919,7.829,,Q
+655,0,3,Toya Eckhoff,female,18,0,0,365226,6.75,,Q
+656,0,2,Bobby Steinhauer,male,24,2,0,S.O.C. 14879,73.5,,S
+657,0,3,Carlo Rosenow,male,,0,0,349223,7.896,,S
+658,0,3,Fran Carlile,female,32,1,1,364849,15.5,,Q
+659,0,2,Reynaldo Dimartino,male,23,0,0,29751,13,,S
+660,0,1,Erin Arnone,male,58,0,2,35273,113.275,D48,C
+661,1,1,Dusty Courchesne,male,50,2,0,PC 17611,133.65,,S
+662,0,3,Toby East,male,40,0,0,2623,7.225,,C
+663,0,1,Nicky Agosto,male,47,0,0,5727,25.588,E58,S
+664,0,3,Carmen Syed,male,36,0,0,349210,7.496,,S
+665,1,3,Elliot Wilham,male,20,1,0,STON/O 2. 3101285,7.925,,S
+666,0,2,Lamont Longerbeam,male,32,2,0,S.O.C. 14879,73.5,,S
+667,0,2,David Bieniek,male,25,0,0,234686,13,,S
+668,0,3,Delmar Hodapp,male,,0,0,312993,7.775,,S
+669,0,3,Morgan Eis,male,43,0,0,A/5 3536,8.05,,S
+670,1,1,Oretha Pottinger,female,,1,0,19996,52,C126,S
+671,1,2,Faviola Driskill,female,40,1,1,29750,39,,S
+672,0,1,Salvatore Downard,male,31,1,0,F.C. 12750,52,B71,S
+673,0,2,Wilburn Cobbley,male,70,0,0,C.A. 24580,10.5,,S
+674,1,2,Percy Delozier,male,31,0,0,244270,13,,S
+675,0,2,Richie Mean,male,,0,0,239856,-,,S
+676,0,3,Augustine Herzog,male,18,0,0,349912,7.775,,S
+677,0,3,Errol Maroon,male,24.5,0,0,342826,8.05,,S
+678,1,3,Marisha Koss,female,18,0,0,4138,9.842,,S
+679,0,3,So Gillette,female,43,1,6,CA 2144,46.9,,S
+680,1,1,Bernardo Elmendorf,male,36,0,1,PC 17755,512.329,B51 B53 B55,C
+681,0,3,Rayna Jarrell,female,,0,0,330935,8.138,,Q
+682,1,1,Antoine Fennel,male,27,0,0,PC 17572,76.729,D49,C
+683,0,3,Leonard Tworek,male,20,0,0,6563,9.225,,S
+684,0,3,Brad Hardesty,male,14,5,2,CA 2144,46.9,,S
+685,0,2,Sol Cummingham,male,60,1,1,29750,39,,S
+686,0,2,Noe Levitsky,male,25,1,2,SC/Paris 2123,41.579,,C
+687,0,3,Zane Covelli,male,14,4,1,3101295,39.688,,S
+688,0,3,Berry Sardina,male,19,0,0,349228,10.171,,S
+689,0,3,Rubin Pepe,male,18,0,0,350036,7.796,,S
+690,1,1,Sharda Campoverde,female,15,0,1,24160,211.338,B5,S
+691,1,1,Harlan Lampkins,male,31,1,0,17474,57,B20,S
+692,1,3,Mao Brisson,female,4,0,1,349256,13.417,,C
+693,1,3,Kermit Maciejewski,male,,0,0,1601,56.496,,S
+694,0,3,Timothy Colmenero,male,25,0,0,2672,7.225,,C
+695,0,1,Kirk Tarbox,male,60,0,0,113800,26.55,,S
+696,0,2,Connie Benzing,male,52,0,0,248731,13.5,,S
+697,0,3,Ike Connelly,male,44,0,0,363592,8.05,,S
+698,1,3,Tressie Timberlake,female,,0,0,35852,7.733,,Q
+699,0,1,Gino Foulks,male,49,1,1,17421,110.883,C68,C
+700,0,3,Adam Sylva,male,42,0,0,348121,7.65,F G63,S
+701,1,1,Dalia Deyoe,female,18,1,0,PC 17757,227.525,C62 C64,C
+702,1,1,Willard Engler,male,35,0,0,PC 17475,26.288,E24,S
+703,0,3,Jina Job,female,18,0,1,2691,14.454,,C
+704,0,3,Max Schenkel,male,25,0,0,36864,7.742,,Q
+705,0,3,Bruce Richeson,male,26,1,0,350025,7.854,,S
+706,0,2,Dan Ledonne,male,39,0,0,250655,26,,S
+707,1,2,Brandie Bastian,female,45,0,0,223596,13.5,,S
+708,1,1,Wes Doi,male,42,0,0,PC 17476,26.288,E24,S
+709,1,1,Lelah Laxson,female,22,0,0,113781,151.55,,S
+710,1,3,Asa Sandman,male,,1,1,2661,15.246,,C
+711,1,1,Shawna Sharrow,female,24,0,0,PC 17482,49.504,C90,C
+712,0,1,Normand Serino,male,,0,0,113028,26.55,C124,S
+713,1,1,Omer Plamondon,male,48,1,0,19996,52,C126,S
+714,0,3,Gilberto Rowsey,male,29,0,0,7545,9.483,,S
+715,0,2,Clark Kearl,male,52,0,0,250647,13,,S
+716,0,3,Harold Eubanks,male,19,0,0,348124,7.65,F G73,S
+717,1,1,Marna Mcwaters,female,38,0,0,PC 17757,227.525,C45,C
+718,1,2,Magen Massingale,female,27,0,0,34218,10.5,E101,S
+719,0,3,Henry Zahler,male,,0,0,36568,15.5,,Q
+720,0,3,Jonathon Wechsler,male,33,0,0,347062,7.775,,S
+721,1,2,Adelaida Allsop,female,6,0,1,248727,33,,S
+722,0,3,Ferdinand Gills,male,17,1,0,350048,7.054,,S
+723,0,2,Clyde Bourque,male,34,0,0,12233,13,,S
+724,0,2,Hobert Tirado,male,50,0,0,250643,13,,S
+725,1,1,Vincent Antunez,male,27,1,0,113806,53.1,E8,S
+726,0,3,Kermit Murphey,male,20,0,0,315094,8.663,,S
+727,1,2,Julia Jaquez,female,30,3,0,31027,21,,S
+728,1,3,Cornelia Cuenca,female,,0,0,36866,7.738,,Q
+729,0,2,Tod Pate,male,25,1,0,236853,26,,S
+730,0,3,Fredia Fales,female,25,1,0,STON/O2. 3101271,7.925,,S
+731,1,1,Pok Padgett,female,29,0,0,24160,211.338,B5,S
+732,0,3,Lamont Allred,male,11,0,0,2699,18.788,,C
+733,0,2,Chadwick Montaluo,male,,0,0,239855,-,,S
+734,0,2,Otto Riker,male,23,0,0,28425,13,,S
+735,0,2,Emanuel Beumer,male,23,0,0,233639,13,,S
+736,0,3,Walton Boes,male,28.5,0,0,54636,16.1,,S
+737,0,3,Ivelisse Issa,female,48,1,3,W./C. 6608,34.375,,S
+738,1,1,Pablo Knupp,male,35,0,0,PC 17755,512.329,B101,C
+739,0,3,Russell Bayer,male,,0,0,349201,7.896,,S
+740,0,3,Cruz Carrick,male,,0,0,349218,7.896,,S
+741,1,1,Parker Trusty,male,,0,0,16988,30,D45,S
+742,0,1,Fausto Dufour,male,36,1,0,19877,78.85,C46,S
+743,1,1,Racheal Ramage,female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+744,0,3,Stephen Matamoros,male,24,1,0,376566,16.1,,S
+745,1,3,Milo Severin,male,31,0,0,STON/O 2. 3101288,7.925,,S
+746,0,1,Jonas Goodsell,male,70,1,1,WE/P 5735,71,B22,S
+747,0,3,Long Hannibal,male,16,1,1,C.A. 2673,20.25,,S
+748,1,2,Mina Mcquire,female,30,0,0,250648,13,,S
+749,0,1,Demetrius Simpler,male,19,1,0,113773,53.1,D30,S
+750,0,3,Mckinley Baugh,male,31,0,0,335097,7.75,,Q
+751,1,2,Mica Martinson,female,4,1,1,29103,23,,S
+752,1,3,Arnulfo Reisman,male,6,0,1,392096,12.475,E121,S
+753,0,3,Gail Lowry,male,33,0,0,345780,9.5,,S
+754,0,3,Tommy Demeter,male,23,0,0,349204,7.896,,S
+755,1,2,Juliette Jarret,female,48,1,2,220845,65,,S
+756,1,2,Kasey Whitner,male,0.67,1,1,250649,14.5,,S
+757,0,3,Titus Vorpahl,male,28,0,0,350042,7.796,,S
+758,0,2,Frank Ferber,male,18,0,0,29108,11.5,,S
+759,0,3,Charley Bednarz,male,34,0,0,363294,8.05,,S
+760,1,1,Rutha Robbins,female,33,0,0,110152,86.5,B77,S
+761,0,3,Lane Dumas,male,,0,0,358585,14.5,,S
+762,0,3,Perry Guerette,male,41,0,0,SOTON/O2 3101272,7.125,,S
+763,1,3,Jose Sanner,male,20,0,0,2663,7.229,,C
+764,1,1,Paulette Provencal,female,36,1,2,113760,120,B96 B98,S
+765,0,3,Winston Hruska,male,16,0,0,347074,7.775,,S
+766,1,1,Tonie Tusa,female,51,1,0,13502,77.958,D11,S
+767,0,1,Gary Kennemer,male,,0,0,112379,39.6,,C
+768,0,3,Darline Disalvo,female,30.5,0,0,364850,7.75,,Q
+769,0,3,Odis Hudspeth,male,,1,0,371110,24.15,,Q
+770,0,3,Edmund Aikins,male,32,0,0,8471,8.363,,S
+771,0,3,Donovan Amundson,male,24,0,0,345781,9.5,,S
+772,0,3,Anton Valverde,male,48,0,0,350047,7.854,,S
+773,0,2,Cristi Cavin,female,57,0,0,S.O./P.P. 3,10.5,E77,S
+774,0,3,Noble Murdoch,male,,0,0,2674,7.225,,C
+775,1,2,Gaylene Gibbs,female,54,1,3,29105,23,,S
+776,0,3,Myron Loud,male,18,0,0,347078,7.75,,S
+777,0,3,Lyndon Fontanilla,male,,0,0,383121,7.75,F38,Q
+778,1,3,Abbey Atwood,female,5,0,0,364516,12.475,,S
+779,0,3,Boyce Mcnaughton,male,,0,0,36865,7.738,,Q
+780,1,1,Genny Gayles,female,43,0,1,24160,211.338,B3,S
+781,1,3,Trena Tarpley,female,13,0,0,2687,7.229,,C
+782,1,1,Yer Yarnell,female,17,1,0,17474,57,B20,S
+783,0,1,Dorian Buell,male,29,0,0,113501,30,D6,S
+784,0,3,Mac Mccomas,male,,1,2,W./C. 6607,23.45,,S
+785,0,3,Rudolph Brickey,male,25,0,0,SOTON/O.Q. 3101312,7.05,,S
+786,0,3,Wallace Philbeck,male,25,0,0,374887,7.25,,S
+787,1,3,Luanne Line,female,18,0,0,3101265,7.496,,S
+788,0,3,Hai Poulin,male,8,4,1,382652,29.125,,Q
+789,1,3,Marion Sliger,male,1,1,2,C.A. 2315,20.575,,S
+790,0,1,Seth Lair,male,46,0,0,PC 17593,79.2,B82 B84,C
+791,0,3,Emmanuel Snelson,male,,0,0,12460,7.75,,Q
+792,0,2,Julio Kiger,male,16,0,0,239865,26,,S
+793,0,3,Keeley Keene,female,,8,2,CA. 2343,69.55,,S
+794,0,1,Renato Gritton,male,,0,0,PC 17600,30.696,,C
+795,0,3,Vance Davenport,male,25,0,0,349203,7.896,,S
+796,0,2,Ezra Cover,male,39,0,0,28213,13,,S
+797,1,1,Dierdre Derosier,female,49,0,0,17465,25.929,D17,S
+798,1,3,Laurice Lossing,female,31,0,0,349244,8.683,,S
+799,0,3,Chung Matheney,male,30,0,0,2685,7.229,,C
+800,0,3,Nohemi Nagao,female,30,1,1,345773,24.15,,S
+801,0,2,Roscoe Frailey,male,34,0,0,250647,13,,S
+802,1,2,Loree Li,female,31,1,1,C.A. 31921,26.25,,S
+803,1,1,Arnoldo Williamson,male,11,1,2,113760,120,B96 B98,S
+804,1,3,Alexis Wheaton,male,0.42,0,1,2625,8.517,,C
+805,1,3,Terence Alto,male,27,0,0,347089,6.975,,S
+806,0,3,Beau Kozlowski,male,31,0,0,347063,7.775,,S
+807,0,1,Merrill Bones,male,39,0,0,112050,-,A36,S
+808,0,3,Miki Mendell,female,18,0,0,347087,7.775,,S
+809,0,2,Bruce Foxworth,male,39,0,0,248723,13,,S
+810,1,1,Cortney Cubbage,female,33,1,0,113806,53.1,E8,S
+811,0,3,Nicky Newhall,male,26,0,0,3474,7.888,,S
+812,0,3,Elbert Skinner,male,39,0,0,A/4 48871,24.15,,S
+813,0,2,Ernesto Smartt,male,35,0,0,28206,10.5,,S
+814,0,3,Seema Simo,female,6,4,2,347082,31.275,,S
+815,0,3,Lupe Bellomy,male,30.5,0,0,364499,8.05,,S
+816,0,1,Karl Toon,male,,0,0,112058,-,B102,S
+817,0,3,Marcy Mohan,female,23,0,0,STON/O2. 3101290,7.925,,S
+818,0,2,Jeremy Mcwilliams,male,31,1,1,S.C./PARIS 2079,37.004,,C
+819,0,3,Roger Bilski,male,43,0,0,C 7075,6.45,,S
+820,0,3,Rey Birchfield,male,10,3,2,347088,27.9,,S
+821,1,1,Nada Nishioka,female,52,1,1,12749,93.5,B69,S
+822,1,3,Kenny North,male,27,0,0,315098,8.663,,S
+823,0,1,Wilbert Nuttall,male,38,0,0,19972,-,,S
+824,1,3,Sindy Scheerer,female,27,0,1,392096,12.475,E121,S
+825,0,3,Cristobal Marinello,male,2,4,1,3101295,39.688,,S
+826,0,3,Mitchel Silvestre,male,,0,0,368323,6.95,,Q
+827,0,3,George Robb,male,,0,0,1601,56.496,,S
+828,1,2,Tyron Hunsicker,male,1,0,2,S.C./PARIS 2079,37.004,,C
+829,1,3,Moses Bruch,male,,0,0,367228,7.75,,Q
+830,1,1,Jami Juergens,female,62,0,0,113572,80,B28,
+831,1,3,Alexa Allaire,female,15,1,0,2659,14.454,,C
+832,1,2,Paris Connally,male,0.83,1,1,29106,18.75,,S
+833,0,3,Jeramy Hillyard,male,,0,0,2671,7.229,,C
+834,0,3,Hong Samsel,male,23,0,0,347468,7.854,,S
+835,0,3,Robt Holoman,male,18,0,0,2223,8.3,,S
+836,1,1,Shavonda Stedman,female,39,1,1,PC 17756,83.158,E49,C
+837,0,3,Jan Naylor,male,21,0,0,315097,8.663,,S
+838,0,3,Emanuel Elder,male,,0,0,392092,8.05,,S
+839,1,3,Malcom Jacquet,male,32,0,0,1601,56.496,,S
+840,1,1,Dylan Calender,male,,0,0,11774,29.7,C47,C
+841,0,3,Dirk Esquilin,male,20,0,0,SOTON/O2 3101287,7.925,,S
+842,0,2,Oren Buczek,male,16,0,0,S.O./P.P. 3,10.5,,S
+843,1,1,Corrina Cogburn,female,30,0,0,113798,31,,C
+844,0,3,Neil Krum,male,34.5,0,0,2683,6.438,,C
+845,0,3,Francisco Alexandra,male,17,0,0,315090,8.663,,S
+846,0,3,Waylon Dufner,male,42,0,0,C.A. 5547,7.55,,S
+847,0,3,Ian Suess,male,,8,2,CA. 2343,69.55,,S
+848,0,3,Denny Gluck,male,35,0,0,349213,7.896,,C
+849,0,2,Tyron Leyendecker,male,28,0,1,248727,33,,S
+850,1,1,Maragaret Mazon,female,,1,0,17453,89.104,C92,C
+851,0,3,Larry Sanabria,male,4,4,2,347082,31.275,,S
+852,0,3,Vince Kulpa,male,74,0,0,347060,7.775,,S
+853,0,3,Oralee Orme,female,9,1,1,2678,15.246,,C
+854,1,1,Denese Dunavant,female,16,0,1,PC 17592,39.4,D28,S
+855,0,2,Andria Ambrosino,female,44,1,0,244252,26,,S
+856,1,3,Leoma Lacher,female,18,0,1,392091,9.35,,S
+857,1,1,Vella Vreeland,female,45,1,1,36928,164.867,,S
+858,1,1,Demarcus Mccalister,male,51,0,0,113055,26.55,E17,S
+859,1,3,Maurita Jarrett,female,24,0,3,2666,19.258,,C
+860,0,3,Gregg Transue,male,,0,0,2629,7.229,,C
+861,0,3,Jayson Soderquist,male,41,2,0,350026,14.108,,S
+862,0,2,Marcelo Stange,male,21,1,0,28134,11.5,,S
+863,1,1,Bethanie Berning,female,48,0,0,17466,25.929,D17,S
+864,0,3,Keira Super,female,,8,2,CA. 2343,69.55,,S
+865,0,2,Rudy Hooks,male,24,0,0,233866,13,,S
+866,1,2,Dacia Lankford,female,42,0,0,236852,13,,S
+867,1,2,Carmelina Kiser,female,27,1,0,SC/PARIS 2149,13.858,,C
+868,0,1,Jesse Pannell,male,31,0,0,PC 17590,50.496,A24,S
+869,0,3,Harold Bunger,male,,0,0,345777,9.5,,S
+870,1,3,Edgar Willaims,male,4,1,1,347742,11.133,,S
+871,0,3,Shawn Ryerson,male,26,0,0,349248,7.896,,S
+872,1,1,Yetta Peloquin,female,47,1,1,11751,52.554,D35,S
+873,0,1,Rudolf Plata,male,33,0,0,695,5,B51 B53 B55,S
+874,0,3,Evan Palacio,male,47,0,0,345765,9,,S
+875,1,2,Darcy Flake,female,28,1,0,P/PP 3381,24,,C
+876,1,3,Vena Shen,female,15,0,0,2667,7.225,,C
+877,0,3,Chi Cerrone,male,20,0,0,7534,9.846,,S
+878,0,3,Max Crowe,male,19,0,0,349212,7.896,,S
+879,0,3,Harrison Meas,male,,0,0,349217,7.896,,S
+880,1,1,Tisha Hurdle,female,56,0,1,11767,83.158,C50,C
+881,1,2,Erlene States,female,25,0,1,230433,26,,S
+882,0,3,Virgil Salazar,male,33,0,0,349257,7.896,,S
+883,0,3,Meredith Sabia,female,22,0,0,7552,10.517,,S
+884,0,2,Ignacio Conard,male,28,0,0,C.A./SOTON 34068,10.5,,S
+885,0,3,Beau Wessner,male,25,0,0,SOTON/OQ 392076,7.05,,S
+886,0,3,Keena Tezeno,female,39,0,5,382652,29.125,,Q
+887,0,2,Elbert Jessie,male,27,0,0,211536,13,,S
+888,1,1,Jolanda Boerger,female,19,0,0,112053,30,B42,S
+889,0,3,Onita Schmitt,female,,1,2,W./C. 6607,23.45,,S
+890,1,1,Darrick Debnam,male,26,0,0,111369,30,C148,C
+891,0,3,Buford Ayres,male,32,0,0,370376,7.75,,Q
